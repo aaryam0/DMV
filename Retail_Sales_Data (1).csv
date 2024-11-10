@@ -1,0 +1,101 @@
+Transaction Date,Region,Product Category,Quantity Sold,Sales Amount,Customer Name,Transaction ID,Payment Method
+2019-01-16,West,Home Decor,9,909.84,Melinda Pham,7b094307-bcd3-4f16-84a7-2bca783fff4f,Credit Card
+2021-09-17,North,Clothing,8,900.29,Shelly Perez,fb437a2e-4ebf-4807-b84e-f2dfae83541a,Credit Card
+2020-03-27,East,Electronics,3,506.07,Scott White,b6ead965-ed1c-4bdc-95ac-864685467abd,Online Banking
+2019-02-11,South,Clothing,9,744.7,Gloria Williams,400773f4-a820-47b6-b3c4-2cc2a5467e73,Cash
+2020-01-15,East,Books,4,245.55,Michael Sims,10b62e7a-38f8-4f27-a989-b99b55d76223,Cash
+2020-02-23,South,Clothing,7,109.51,Colleen Frederick,b44f4941-27fe-4268-b395-deca59051201,Online Banking
+2020-08-03,North,Clothing,7,130.36,Jessica Walker,bc98e459-575b-462e-ae1a-713de89f9d9d,Credit Card
+2021-04-15,North,Electronics,4,800.0,Christopher Kirby,e608e078-3154-451f-8cad-0583a5931fc6,Cash
+2019-06-17,West,Books,4,89.38,Kathy Hall,4d1028c1-20db-4446-899e-568322f8c016,Credit Card
+2021-04-01,North,Clothing,9,823.63,Cassandra Holden,af053549-65e7-4ad3-a653-ad7fbb363fed,Cash
+2019-01-06,East,Electronics,2,670.3,Cheryl Cooper,ae4af5ea-722e-48ab-824c-23c3cfdb83a6,Credit Card
+2019-02-27,North,Books,9,399.56,James Figueroa,2ce1182c-0aa8-46ac-8219-e2c1b070890a,Online Banking
+2021-03-10,East,Electronics,1,761.34,Derek Lawson,cfffee5a-2eeb-4d40-b926-e783f529e58b,PayPal
+2021-06-23,North,Electronics,6,453.27,Whitney Knight,74f03650-0405-4920-a15f-723afce46edc,PayPal
+2020-12-15,South,Electronics,3,708.83,Pamela Orr,6ff1b769-c052-4cda-aaa5-61c965111d47,Online Banking
+2019-10-26,North,Books,4,430.53,Kathy Evans,015cd7fe-3c5b-42e9-ad41-05b39a2225d9,Cash
+2021-11-24,West,Clothing,6,575.29,Ellen Pope,7fd2a43e-37fd-4cd4-8da4-7e90aedbd5ce,Online Banking
+2021-08-24,South,Clothing,10,682.58,Donald Pierce,11841ead-e522-49ee-b718-f0410caaf86e,Online Banking
+2021-05-14,East,Clothing,5,231.97,Sarah Kelly,8e5dd19b-5dce-4be2-ab9e-56f6f4db34b3,Cash
+2019-02-03,East,Home Decor,2,49.65,John Walker,db616bdf-ad59-4d0f-bb7f-703ee36f2c17,Cash
+2020-03-26,West,Books,1,807.73,Laurie Smith,271763ce-7abf-486f-b53d-e1276653ae4c,PayPal
+2020-02-12,East,Electronics,8,692.76,Victoria Summers,fe90946b-507c-4a12-ba52-55036fa9bc49,Cash
+2020-07-26,East,Clothing,7,188.34,Tammy Guerrero,9c078fef-5ebf-4b44-bdd4-6cfa44e8bc2d,PayPal
+2019-02-20,West,Electronics,9,794.79,Nathan Love,45d4a3f4-9ee8-41e7-95cc-02fd6e81a90f,Credit Card
+2021-02-05,East,Clothing,5,471.98,Steven Barnes,bdf3f978-717d-49ec-883e-bcf4314c1d23,Online Banking
+2020-08-27,West,Electronics,10,777.58,Amanda Hickman,1efd5c96-244b-4ffb-8b1c-73713d9de212,PayPal
+2019-09-21,West,Books,4,590.05,Nina Forbes,39083a74-41f9-467f-92cb-564248e80da2,Cash
+2020-11-11,South,Electronics,8,367.41,Melanie Flores,4db17f91-be14-4f92-a9b8-2ba70d4c2107,Cash
+2021-09-27,South,Home Decor,2,370.33,William Figueroa,a1fbb178-6a54-490d-a5e1-c4c312852a81,Online Banking
+2021-07-24,North,Books,1,360.61,Gary Quinn,a0565d3f-88eb-4e89-a0b2-ff9d17c0f2be,Online Banking
+2021-11-19,East,Clothing,7,696.44,Annette Jimenez,e49f3a10-c123-4e70-a82d-a2631e320abc,PayPal
+2021-11-16,North,Clothing,2,794.29,Alexis Garcia,e215bdd4-62dd-428f-b745-6402e563ea77,Credit Card
+2019-07-11,East,Clothing,4,503.63,Jermaine Cox,748c7113-118d-4a59-a09c-16d15f596c3a,Credit Card
+2020-01-01,West,Clothing,8,23.14,Scott Jimenez,be6e0038-df68-498f-ace4-467e8d6c9c17,Cash
+2020-08-04,West,Home Decor,9,857.47,Jeffery Scott,72b426d6-7b3f-4dec-8901-baf5978c66c0,PayPal
+2020-07-17,North,Electronics,7,313.57,Wesley Harrington,b58388a5-bc26-4a09-9eb6-f37ea30696d0,PayPal
+2019-08-22,East,Clothing,8,103.37,Nathan Copeland,08e8205c-3ea0-48dd-8dcd-cceebd4b6655,PayPal
+2019-03-24,North,Clothing,5,698.11,Robin Maldonado,e072b9ca-fe06-42b2-9cca-b5db41e3dd3d,Online Banking
+2020-05-10,East,Electronics,1,722.7,Pamela Peck,7e63c952-d25b-4be1-8c8b-4bf9b8ded5f1,Cash
+2021-08-24,West,Electronics,3,859.2,Patricia Rojas,d61682f3-ba11-429d-b43d-491232f81389,Credit Card
+2019-06-04,East,Home Decor,1,945.04,Kimberly Beltran,9a127c0a-9a56-4da1-b31b-01ef66d0c988,Credit Card
+2019-12-27,South,Clothing,9,605.81,Amber Gutierrez,8d8819a7-c50a-4ae5-b765-2ae941e0164a,Online Banking
+2020-07-14,West,Books,3,966.72,Pamela Cardenas,88a85b10-1fbc-4c93-8d11-d84fdd1fc31c,PayPal
+2020-12-13,North,Home Decor,10,555.21,Brooke Fox,5c7d2fe0-ed1b-48d2-9d01-17ee12cc89fc,Online Banking
+2020-11-12,West,Clothing,4,973.21,Jason Porter,1e4999ef-d5c9-4cf8-99c0-fd53139c71d5,Credit Card
+2020-09-01,West,Home Decor,10,917.06,Suzanne Bennett,fda2dc0c-fbea-45bb-b8ef-9d78142d1392,Credit Card
+2020-02-12,South,Clothing,8,885.61,Christina Hoffman,c61d35b4-5093-4779-9d54-480622783b8d,Credit Card
+2021-11-13,West,Books,5,984.85,Scott Nixon,1e48739d-f2fb-489d-9454-c7ba02980f92,PayPal
+2021-07-08,North,Clothing,4,171.18,Melinda Potts,043fe9a5-8461-4267-8f96-23133e56381e,Cash
+2019-07-06,South,Home Decor,8,453.05,William Sanchez,ae2d8012-3501-47aa-a4f3-6d6af67682e6,PayPal
+2019-03-12,South,Home Decor,7,526.02,Steven Parker,78c4bea0-5b0d-412c-a4ca-13aac2ae57ec,Cash
+2021-10-04,North,Home Decor,7,72.48,Daniel Thompson,d3594226-a68d-4afc-bad5-e1b4a49d4d60,Cash
+2020-08-19,North,Clothing,4,81.71,Thomas Wong,71283307-2a8d-4e42-a047-0e461d7c5550,PayPal
+2019-12-08,South,Books,4,573.38,Nicholas Smith,051b1e43-5e54-4e1c-a6a0-76d76950904f,Online Banking
+2020-04-21,West,Clothing,9,529.11,Cheryl Frazier,509f1af5-5c11-4ac0-9e45-c0d13d36c547,Cash
+2020-03-13,West,Home Decor,7,859.14,Matthew Perez,61d84fae-a3d4-40b1-8a79-3a4cc949f358,PayPal
+2020-12-20,North,Clothing,9,282.45,Eric Little,be440510-9b5e-4dd7-9396-e342097518d7,Credit Card
+2019-11-09,East,Clothing,8,541.89,Daniel Burch,960311fb-cb89-4a6f-b8cd-00f80bb155fd,Online Banking
+2020-10-16,North,Home Decor,4,611.33,Veronica Murray,f7113a8f-f450-4b90-964d-8f1f8364fa67,PayPal
+2020-11-05,West,Clothing,9,131.78,Laura Stuart,0907f868-227a-4d0e-81fc-07ff98cfacfb,Cash
+2021-12-21,West,Clothing,5,328.39,Jessica Shaffer,57436ebe-6a2c-441b-bfcd-c231a8c7b995,PayPal
+2021-08-13,West,Books,9,633.17,James Benson,916680bc-5d66-4f6e-8e0d-571a407cc0c6,Cash
+2019-12-16,East,Books,7,514.34,Melinda Peterson,018aae8d-6d29-4453-ae64-b1f1da4504af,Cash
+2021-11-21,East,Clothing,5,960.28,Terry Cruz,f5431734-4c92-4967-af7a-ca27fcd08077,Online Banking
+2021-07-27,North,Electronics,4,719.73,Adam Jenkins,459c7716-4eb8-401d-b9a1-082787a8e7fd,Online Banking
+2021-05-13,South,Electronics,8,383.53,Douglas Norris,a5e0c652-acc6-46ac-931c-e0b143ed97f4,Online Banking
+2020-04-05,North,Clothing,10,239.53,Carrie Conley,596e0ac4-8d35-4f34-b1d1-888401323126,Cash
+2020-02-07,South,Clothing,1,187.92,Eric Page,4be0e71b-49be-4f53-840e-ea809ea0c96a,Cash
+2019-03-19,South,Home Decor,4,376.59,Jonathan Malone,c2d9f8cb-4a53-4902-b3c2-a689a3b543a4,Credit Card
+2019-07-04,East,Clothing,8,193.31,Ryan Kirby,2cb9a074-ad27-4d3b-981a-b9e9f18435a4,Credit Card
+2020-06-12,West,Books,1,835.22,Allison Sanchez,d51bd67f-dad6-4bfe-b4ca-9c7c58471da8,PayPal
+2020-11-09,West,Electronics,3,445.83,Emily Chen,c7ed3ad3-007f-4455-a675-b4764742b6ea,PayPal
+2019-02-05,North,Home Decor,7,912.74,Aaron Green,28cea7bb-5474-49b0-b77a-4ef7c0845f3f,Credit Card
+2020-07-05,West,Electronics,9,166.07,Brandon Lopez,eab14c98-6f8c-4b34-a7c1-50ed7a79c1e4,Credit Card
+2020-09-23,South,Home Decor,2,322.22,Jennifer Cox,2755d15f-3f7e-4b28-a741-69d1cf8b43a0,Credit Card
+2020-04-06,East,Home Decor,8,425.71,Ashley Wright,825e9409-3978-4b51-8749-b8a2b89c26a0,Cash
+2021-09-01,West,Home Decor,4,886.25,Robert Nelson,79453c3e-b248-4b2f-bd90-cd927349e73b,Online Banking
+2021-06-02,South,Home Decor,9,149.18,Andre Carter,3050ec63-fb0e-4568-aa99-f0950287cc69,PayPal
+2021-03-20,East,Clothing,1,402.33,Christine White,da5fb042-0281-4abf-8dc8-20ac428fb07c,Cash
+2020-07-13,South,Home Decor,2,970.12,Cynthia Douglas,f5c281a5-b518-4051-a154-3371e5244516,Credit Card
+2019-05-03,East,Electronics,5,720.41,Jessica Smith,a336f055-f9c8-47cc-834c-1d44fb301cdc,Online Banking
+2019-10-08,West,Clothing,8,624.59,Robin Garcia,aa3ebf11-2c3f-459b-b14a-ad04b9a7dbbb,Credit Card
+2019-01-24,East,Electronics,8,99.66,Eric Snyder,b84f640f-0697-4a8f-94f3-84d5af116a74,Online Banking
+2021-11-03,South,Clothing,9,547.7,Thomas Rodriguez,29867ab1-ab3c-439f-9fd5-4dfabac650f4,PayPal
+2021-10-13,North,Home Decor,3,751.55,Douglas Black,0ac7b18d-68e9-4ada-b1d3-f587c9a82079,Credit Card
+2021-01-05,North,Home Decor,3,413.75,Anthony Smith,c2c02c34-8137-40ca-bb8f-f95c5c5d40d0,Online Banking
+2020-02-22,West,Home Decor,9,207.12,Brenda Harrell,98391e71-2152-4088-8575-c46b46227823,PayPal
+2020-07-18,North,Electronics,2,922.37,Jennifer Ritter,2485662b-726c-4447-a2a1-ad49a45c5b6b,PayPal
+2021-09-09,South,Clothing,9,659.8,Austin Green,506c80db-155d-4061-ad2e-a26ebe173e75,Cash
+2021-05-21,North,Home Decor,9,148.71,Janet Miller,22e098bc-126b-401b-a773-93f11f0ab51d,Credit Card
+2021-12-09,North,Books,8,403.9,Emily Stafford,39ecb4fd-13d4-41bb-9477-4b9d8ae8742c,Online Banking
+2019-01-11,South,Electronics,10,468.89,Kelly Crawford,8470c219-7829-4f14-b688-74a8daa7ee28,Cash
+2021-01-10,East,Electronics,1,338.93,Jacob Mcintyre,12777e94-8594-4555-aa67-46088cf78307,Online Banking
+2019-11-22,East,Home Decor,5,842.7,Cassandra Tran,07be9316-ab16-41a9-ad18-23699c4a6462,Credit Card
+2019-12-17,East,Home Decor,3,912.31,Mr. Patrick Chavez,77a8298b-2fee-45eb-a2a9-3822dcff4df2,Credit Card
+2020-06-26,East,Electronics,3,914.06,Erica Franklin DVM,56855833-4f68-4312-b5e0-88c7dc7ce72b,Online Banking
+2021-07-04,South,Electronics,3,652.93,Ricky Walsh,7e03f607-9b90-4075-b05f-e704c81fb165,PayPal
+2020-04-08,North,Books,9,640.88,Luis Wong,4f1f1533-6fb0-468d-80ac-a8c1db865b1a,Online Banking
+2021-12-24,East,Electronics,1,727.21,Christopher Reese,0c3d09c3-469c-4b2f-860e-89365bab7f88,Online Banking
+2020-10-04,South,Clothing,4,554.22,Barry Johnson,95921b52-e166-4d8f-86c6-2149cf1398d8,Credit Card
